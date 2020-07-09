@@ -1,0 +1,37 @@
+/* Ibrahim Zbib's Git practice */
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color:mediumvioletred;
+    text-align: center;
+}
+.friend{
+    background-color: azure;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.friend h3{
+    text-transform: uppercase;
+    text-align: center
+}
+.friend p:first-of-type{
+    color: darkgoldenrod;
+}
+.friend p:nth-child(3){
+    color: hotpink;
+    margin-left: 20%;
+}
+.friend p:nth-child(4){
+    color: blueviolet;
+    margin-left: 40%;
+}
+.friend p:nth-child(5){
+    color: darkgrey;
+    margin-left: 60%;
+}
+.friend p:nth-child(6){
+    color: royalblue;
+    margin-left: 80%;
+}
