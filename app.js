@@ -5,7 +5,7 @@
 document.addEventListener("DOMContentLoaded", function(){
       
     var button = document.createElement("button");
-    var buttonText = document.createTextNode("Sing");
+    var buttonText = document.createTextNode("Sing!");
    
     button.id = "sqrbtn";
     button.style.backgroundColor = "pink";
